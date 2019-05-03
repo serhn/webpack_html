@@ -10,6 +10,3 @@ npm run dev
 ```sh
 npm run prod 
 ```
-
-# webpack_html
-# webpack_html
